@@ -1,0 +1,3 @@
+1、设置Go Libraries
+就是设置当前的工作目录，或者理解成java的classpath也可以的
+就是当前项目*.go文件所在的目录
